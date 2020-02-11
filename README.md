@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alxbel.github.io/rsschool-cv/cv
